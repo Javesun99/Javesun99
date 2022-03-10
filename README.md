@@ -1,7 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently a student at **ZJUT**.
 - 🌱 I’m currently learning **Deep learning**
-- 
 <!--
 **Javesun99/Javesun99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
