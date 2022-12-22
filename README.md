@@ -29,7 +29,7 @@
 
 - 📫 How to reach me **javes22@gmail.com**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=javesun99&show_icons=true&locale=en&layout=compact&theme=dracula" alt="javesun99" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=javesun99&show_icons=true&locale=en&layout=compact&theme=dracula" alt="javesun99" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=javesun99&show_icons=true&locale=en&theme=dracula" alt="javesun99" /></p>
 
