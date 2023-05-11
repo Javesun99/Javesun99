@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Pytorch** **embedded**
 
-- 📫 How to reach me **javes22@gmail.com**
+- 📫 How to reach me **javes2022@gmail.com**
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=javesun99&show_icons=true&locale=en&layout=compact&theme=dracula" alt="javesun99" /></p>
 
