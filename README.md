@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javesun99&label=Profile%20views&color=0e75b6&style=flat" alt="javesun99" /> </p>
 
--:earth_africa: I’m currently a student at ZJUT
+- :earth_africa: I’m currently a student at ZJUT
 
 - 🌱 I’m currently learning **Pytorch** **embedded**
 
