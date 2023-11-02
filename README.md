@@ -4,11 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javesun99&label=Profile%20views&color=0e75b6&style=flat" alt="javesun99" /> </p>
 
-- 🌏 I’m currently a student at **ZJUT**
-
+- 🌏 I’m currently a student
 - 🌱 I’m currently learning **Pytorch** **embedded**
 
-- 📫 How to reach me **javes2022@gmail.com**
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=javesun99&show_icons=true&locale=en&layout=compact&theme=dracula" alt="javesun99" /></p>
 
