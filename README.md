@@ -6,7 +6,7 @@
 
 - 🌏 I’m currently a student at **ZJUT**
 
-- 🌱 I’m currently learning **Pytorch** **embedded**
+- 🌱 I’m currently learning **Pytorch**,**embedded**
 
 - 📫 How to reach me **javes2022@gmail.com**
 
