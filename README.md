@@ -1,24 +1,44 @@
-<!-- <h1 align="center">Hi 👋, I'm Jave</h1> -->
-<h1 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Jave" alt="Typing SVG" /></h1>
-<!-- <h3 align="center">I’m currently a student at ZJUT.</h3> -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Jave;Welcome+to+my+space" alt="Typing SVG" />
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=javesun99&label=Profile%20views&color=0e75b6&style=flat" alt="javesun99" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=javesun99&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="javesun99" />
+</p>
 
-- 🌏 I’m currently a student at **ZJUT**
+### 💫 About Me
+- 🌏 Currently a student at **Zhejiang University of Technology (ZJUT)**
+- 🌱 Learning **PyTorch**, **Embedded Systems**, and **Next.js**
+- 📫 Reach me at: [javes2022@gmail.com](mailto:javes2022@gmail.com)
 
-- 🌱 I’m currently learning **Pytorch**,**embedded**
+---
 
-- 📫 How to reach me **javes2022@gmail.com**
+### 🛠 Languages & Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,python,pytorch,tensorflow,arduino,linux,docker,git,nextjs,fastapi" />
+  </a>
+</p>
 
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=javesun99&show_icons=true&locale=en&layout=compact&theme=dracula" alt="javesun99" /></p>
+### 📊 Github Stats
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=javesun99&show_icons=true&theme=dracula&hide_border=true" alt="Jave's Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=javesun99&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=javesun99&theme=dracula&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=javesun99&show_icons=true&locale=en&theme=dracula" alt="javesun99" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=javesun99&theme=dracula" alt="javesun99" /></p>
-
-<!-- <p align="center"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=javesun99&theme=dracula" /></p> -->
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=javesun99&theme=dracula&hide_border=true&area=true" width="100%" />
+</p>
